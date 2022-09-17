@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{397F6019-3F17-AFF2-6654-9565CA722DCC}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bb0eb7ed-a42d-4987-9736-1168a4351d2f" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pickup.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GoldPickUp.cs" Line="8" Column="26" />
+      <File FileName="Assets/Scripts/Inventory.cs" Line="33" Column="67" />
+      <File FileName="Assets/Scripts/GoldHandler.cs" Line="15" Column="51" />
+      <File FileName="Assets/Scripts/CollisionHandler.cs" Line="7" Column="17" />
+      <File FileName="Assets/Scripts/Pickup.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/EnemyHealth.cs" Line="31" Column="77" />
+      <File FileName="Assets/Scripts/PlayerAttack.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FantasyBase" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
